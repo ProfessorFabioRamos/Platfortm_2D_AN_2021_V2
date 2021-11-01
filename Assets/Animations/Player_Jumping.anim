@@ -20,23 +20,32 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 8314106312998304721, guid: 63678f2b5af9a47499e835380b670e1b, type: 3}
+      value: {fileID: 8314106312998304721, guid: 63678f2b5af9a47499e835380b670e1b,
+        type: 3}
     - time: 0.11111111
-      value: {fileID: -8669476565407952359, guid: 63678f2b5af9a47499e835380b670e1b, type: 3}
+      value: {fileID: -8669476565407952359, guid: 63678f2b5af9a47499e835380b670e1b,
+        type: 3}
     - time: 0.22222222
-      value: {fileID: -8720667511216583206, guid: 63678f2b5af9a47499e835380b670e1b, type: 3}
+      value: {fileID: -8720667511216583206, guid: 63678f2b5af9a47499e835380b670e1b,
+        type: 3}
     - time: 0.33333334
-      value: {fileID: 2108630948204414058, guid: 63678f2b5af9a47499e835380b670e1b, type: 3}
+      value: {fileID: 2108630948204414058, guid: 63678f2b5af9a47499e835380b670e1b,
+        type: 3}
     - time: 0.44444445
-      value: {fileID: -8721171065765742790, guid: 63678f2b5af9a47499e835380b670e1b, type: 3}
+      value: {fileID: -8721171065765742790, guid: 63678f2b5af9a47499e835380b670e1b,
+        type: 3}
     - time: 0.5555556
-      value: {fileID: -5293054968948101933, guid: 63678f2b5af9a47499e835380b670e1b, type: 3}
+      value: {fileID: -5293054968948101933, guid: 63678f2b5af9a47499e835380b670e1b,
+        type: 3}
     - time: 0.6666667
-      value: {fileID: -1736994623966882598, guid: 63678f2b5af9a47499e835380b670e1b, type: 3}
+      value: {fileID: -1736994623966882598, guid: 63678f2b5af9a47499e835380b670e1b,
+        type: 3}
     - time: 0.7777778
-      value: {fileID: -8458397627805919072, guid: 63678f2b5af9a47499e835380b670e1b, type: 3}
+      value: {fileID: -8458397627805919072, guid: 63678f2b5af9a47499e835380b670e1b,
+        type: 3}
     - time: 0.8888889
-      value: {fileID: 3381932751278942255, guid: 63678f2b5af9a47499e835380b670e1b, type: 3}
+      value: {fileID: 3381932751278942255, guid: 63678f2b5af9a47499e835380b670e1b,
+        type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -75,7 +84,7 @@ AnimationClip:
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
-    m_LoopTime: 1
+    m_LoopTime: 0
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0
